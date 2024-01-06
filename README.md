@@ -45,18 +45,27 @@ See images below:
 #### Image 1 : No background noise
 
 
-![1](https://github.com/sri-d1/Image-Segmentation-Using-Skimage/assets/68694495/a67f5dd7-c85c-4abb-a615-00ce40e2034a)
+![2](https://github.com/sri-d1/Image-Segmentation-Using-Skimage/assets/68694495/9efe9bff-f588-4b8e-8712-eb19976cf05e)
 
 
 
 
 #### Image 2 : With background noise
 
+![1](https://github.com/sri-d1/Image-Segmentation-Using-Skimage/assets/68694495/a67f5dd7-c85c-4abb-a615-00ce40e2034a)
+
+
 2. Thresholding technique produced result with good accuracy on image with no noise , whereas with image having noise and multiple objects result was not very accurate.
 
 #### Image 1 : No background noise
+![3](https://github.com/sri-d1/Image-Segmentation-Using-Skimage/assets/68694495/e397afa4-5d3f-494a-a788-ef4bfbd9336e)
+
+
 
 #### Image 2 : With background noise 
+![4](https://github.com/sri-d1/Image-Segmentation-Using-Skimage/assets/68694495/f168bac0-d0c4-47d0-a578-0b61bda58a61)
+
+
 
 ## License
 
